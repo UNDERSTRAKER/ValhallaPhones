@@ -51,7 +51,7 @@ function handleSecondNavClick(item) {
   paragraph.textContent = item.text;
 }
 
-function btnCustom(navItem, newHtmlElem) {
+/*function btnCustom(navItem, newHtmlElem) {
   if (navItem.presionado === true) {
     navItem.presionado[0] || navItem.presionado[1]
     newHtmlElem.style.backgroundColor = "#CE6B13";
@@ -64,7 +64,7 @@ function btnCustom(navItem, newHtmlElem) {
     newHtmlElem.style.fontWeight = "bold"
 
   }
-}
+}*/
 
 
 
